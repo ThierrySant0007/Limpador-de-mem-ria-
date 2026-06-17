@@ -1,1 +1,1 @@
-# Limpador-de-mem-ria-
+# Limpador-de-memória-cache
